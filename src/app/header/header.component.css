@@ -1,0 +1,40 @@
+p
+{
+    margin: 0;
+}
+
+.navBar
+{
+    background-color: blue;
+    width: auto;
+    height: 100vh;
+    width: auto;
+    
+}
+
+.navBar ul
+{
+    margin: 0;
+    list-style: none;
+    width:auto;
+    /* background-color:aquamarine; */
+    padding:0;
+}
+
+.navBar ul li 
+{
+    padding: 15%;
+    /* background-color: rgb(163, 175, 217); */
+    margin-bottom: 29.5%;
+    color: white;
+    width: auto;
+    
+}
+
+.navBar ul li:hover
+{
+   
+    background-color: rgb(163, 175, 217);
+    color: black;
+    
+}

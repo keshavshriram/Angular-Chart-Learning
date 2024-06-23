@@ -1,0 +1,11 @@
+.appClass
+{
+    display: inline-flex;
+    background-color: beige;
+    width: 100%;
+}
+.appHeader
+{
+    width: 20%;
+}
+
